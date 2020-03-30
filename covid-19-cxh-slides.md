@@ -65,7 +65,7 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - Droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful).
-- [Aerosol](https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article) ([uncertain how important this mode of transmission is](https://www.nejm.org/doi/10.1056/NEJMc2004973), can travel more than 1m, surgical mask not helpful).
+- Aerosol (virus "floats" in the air on dust. May persist. Surgical mask not helpful, need an N95/FF3 Mask. In high risk environments [see next slide]).
 - Social distancing, hand hygiene, and in a hospital setting [appropriate use of PPE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf) are important.
 
 #
@@ -119,7 +119,7 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 #
 
 - Important to isolate patient and take [appropriate respiratory precautions](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf)
-- Basic PPE for all suspected cases (surgical mask, gloves and apron); respirator (FFP3) mask, visor/goggles if aerosol generating procedures (e.g. intubation, non-invasive ventilation, chest physiotherapy, tracheostomy care, bronchoscopy)
+- Basic PPE for all suspected cases (surgical mask, gloves and apron); respirator (FFP3) mask, visor/goggles if aerosol generating procedures/high risk environments (e.g. intubation, non-invasive ventilation, chest physiotherapy, tracheostomy care, bronchoscopy)
 
 #
 
