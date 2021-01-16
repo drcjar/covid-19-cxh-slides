@@ -117,7 +117,7 @@ Patients who are too breathless to carry out their activities of daily living ne
 
 #
 
-- Current management is oxygen therapy (titrated to achieve local target oxygen saturations), 10 days of dexamethasone 6mg od (RECOVERY trial) for those who are inpatients requiring oxygen, ppi cover, antibiotic cover if intercurrent bacterial infection is suspected, and prophylactic anticoagulation. ['Intermediate' anticoagulation may be considered for those who are severely unwell.](https://www.nice.org.uk/guidance/ng186) Critically unwell patients may benefit from [tocilizumab or sarilumab](https://www.thebottomline.org.uk/summaries/remap-cap-il-6/).
+- Current management is oxygen therapy (titrated to achieve local target oxygen saturations), 10 days of dexamethasone 6mg od (RECOVERY trial) for those who are inpatients requiring oxygen (ppi cover and glucose monitoring and control as necessary), antibiotic cover if intercurrent bacterial infection is suspected, and prophylactic anticoagulation. ['Intermediate' anticoagulation may be considered for those who are severely unwell.](https://www.nice.org.uk/guidance/ng186) Critically unwell patients may benefit from [tocilizumab or sarilumab](https://www.thebottomline.org.uk/summaries/remap-cap-il-6/).
 
 #
 
@@ -143,6 +143,10 @@ Patients who are too breathless to carry out their activities of daily living ne
 #
 
 - Important to use appropriate PPE (we can't look after our patients if we don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms consistent with COVID-19 (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
+
+#
+
+Patients are discharged when they are stable and no longer require oxygen (average length of stay is around 7-10 days). All patients at NMUH are referred to our covid follow up clinic and provided with safety netting advice that should their symptoms worsen or they have any other concern they should seek medical attention. 
 
 # Useful contacts
 
