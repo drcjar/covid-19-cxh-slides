@@ -60,7 +60,7 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- Demand for hospital admission and ITU will shortly outstrip supply; [overall case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (rates are higher for older people and those with comorbidities, country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case).
+- Pandemic is putting pressure on NHS services; [overall case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (rates are higher for older people and those with comorbidities, country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case).
 
 #
 
@@ -81,6 +81,14 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - Don't take COVID-19 home; change your scrubs or clothes ideally before leaving work, but certainly on arriving home, and wash clothes just as you normally would (virus dissolved by normal detergent on a normal wash)
+
+# vaccines
+
+#
+
+- mass vaccination programmes are now underway world wide
+- in UK three MHRA approved vaccines currently: Pfizer/BioNtech and Moderna (RNA vaccines), Oxford/AstraZeneca (adenovirus vector vaccine)
+- currently offered to priority groups only
 
 # key clinical features of covid-19
 
